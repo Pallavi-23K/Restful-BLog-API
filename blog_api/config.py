@@ -1,7 +1,7 @@
 
 class Config:
     DB_USERNAME = 'root'
-    DB_PASSWORD = 'Karthik@26'
+    DB_PASSWORD = '********'
     DB_HOST = 'localhost'
     DB_NAME = 'blog_db'
 
@@ -19,7 +19,7 @@ class Config:
 
 class Config:
     DB_USERNAME = 'root'
-    DB_PASSWORD = 'Karthik@26'
+    DB_PASSWORD = '*******'
     DB_HOST = 'localhost'
     DB_NAME = 'blog_db'
 
