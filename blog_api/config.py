@@ -6,7 +6,7 @@ class Config:
     DB_NAME = 'blog_db'
 
     # Make sure '@' is encoded as '%40' in the password for the connection string
-    SQLALCHEMY_DATABASE_URI = f"mysql+pymysql://root:Karthik%4026@localhost/blog_db"
+    SQLALCHEMY_DATABASE_URI = f"mysql+pymysql://root:{YourPassword}%4026@localhost/blog_db"
     SQLALCHEMY_TRACK_MODIFICATIONS = False
    
     SECRET_KEY = "my_super_secret_key_123"
