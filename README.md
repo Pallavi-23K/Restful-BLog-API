@@ -102,9 +102,9 @@ blog_api/
 ├─ models.py         # Database models (User, Post, Comment, etc.)
 ├─ routes.py         # API endpoints
 ├─ config.py         # Configuration & environment settings
-├─ main.py            # Flask app initialization
+├─ main.py           # Flask app initialization
 └─ tests/            # Unit & integration tests
---requirements.txt  # Dependencies
+--requirements.txt   # Dependencies
 ```
 
 ---
