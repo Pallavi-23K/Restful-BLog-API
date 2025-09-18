@@ -103,8 +103,8 @@ blog_api/
 ├─ routes.py         # API endpoints
 ├─ config.py         # Configuration & environment settings
 ├─ main.py            # Flask app initialization
-├─ requirements.txt  # Dependencies
 └─ tests/            # Unit & integration tests
+--requirements.txt  # Dependencies
 ```
 
 ---
